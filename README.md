@@ -40,7 +40,7 @@ docker-compose up -d --build
 ```
 
 ## Contact
-- Telegram: https://t.me/foxgowner
+- Telegram: https://t.me/ismiyev95
 - Mail: soc4up@gmail.com
 
 - Project link: https://github.com/play2pay/croco-az
